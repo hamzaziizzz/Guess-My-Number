@@ -1,3 +1,3 @@
 # Guess-My-Number
 
-![Guess-My-Number](assests/img/Guess-My-Number.gif)
+![Guess-My-Number](assets/img/Guess-My-Number.gif)
